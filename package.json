@@ -1,0 +1,25 @@
+{
+  "name": "pass-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "test:watch": "jest --verbose --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamiElsayed/pass-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamiElsayed/pass-tests/issues"
+  },
+  "homepage": "https://github.com/RamiElsayed/pass-tests#readme",
+  "devDependencies": {
+    "@types/jest": "^28.1.2",
+    "jest": "^28.1.1"
+  }
+}
